@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hellow claude and bedrock"
+echo "Hello claude and bedrock"
